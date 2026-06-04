@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="images/logo.jpg" alt="awesome-ideogram-4.0-prompts logo">
+<a href="https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts"><img src="images/logo.jpg" alt="awesome-ideogram-4.0-prompts logo"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai)
-[![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://ideogram.ai/models/4.0)
+[![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
+[![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Weights](https://img.shields.io/badge/Open_Weights-GitHub-blue)](https://github.com/ideogram-oss/ideogram4)
 [![Cases](https://img.shields.io/badge/Cases-23-orange)](#-menu)
 
@@ -37,7 +37,7 @@ Ideogram 4.0 launched on June 3, 2026 as **the best open-weight text-to-image mo
 
 Most cases in this repository are curated from X/Twitter, creator communities, and public launch demos.
 
-Try it on Evolink: [Ideogram 4.0](https://ideogram.ai/models/4.0)
+Try it on Evolink: [Ideogram 4.0](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 
 If you find this useful, consider giving it a star. ⭐
 
