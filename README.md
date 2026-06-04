@@ -75,8 +75,6 @@ If you find this useful, consider giving it a star. ⭐
 
 ### Case 1: [Photorealistic Texture & Imperfections](https://x.com/ideogram_ai/status/2062202376833106365) (by [@ideogram_ai](https://x.com/ideogram_ai))
 
-`🔤 Text→Image`
-
 <table>
 <tr>
 <td width="50%">
@@ -117,8 +115,6 @@ If you find this useful, consider giving it a star. ⭐
 
 ### Case 2: [Realistic Character Skin Texture](https://x.com/jerrod_lew/status/2062202782590095619) (by [@jerrod_lew](https://x.com/jerrod_lew))
 
-`🔤 Text→Image`
-
 <table>
 <tr>
 <td width="50%">
@@ -148,8 +144,6 @@ If you find this useful, consider giving it a star. ⭐
 ## 🎨 Poster & Illustration Cases
 
 ### Case 1: [Typography & Graphic Design](https://x.com/ideogram_ai/status/2062202335250764220) (by [@ideogram_ai](https://x.com/ideogram_ai))
-
-`🔤 Text→Image`
 
 <table>
 <tr>
@@ -191,8 +185,6 @@ If you find this useful, consider giving it a star. ⭐
 
 ### Case 2: [Frontier of Design](https://x.com/ideogram_ai/status/2062202271367336383) (by [@ideogram_ai](https://x.com/ideogram_ai))
 
-`🔤 Text→Image`
-
 <table>
 <tr>
 <td width="50%">
@@ -230,8 +222,6 @@ If you find this useful, consider giving it a star. ⭐
 
 ### Case 1: [Product Packaging with Nutrition Labels](https://x.com/jerrod_lew/status/2062202833219568018) (by [@jerrod_lew](https://x.com/jerrod_lew))
 
-`🔤 Text→Image`
-
 <table>
 <tr>
 <td width="50%">
@@ -259,8 +249,6 @@ If you find this useful, consider giving it a star. ⭐
 ---
 
 ### Case 2: [2K Dense Text Blocks](https://x.com/jerrod_lew/status/2062202754689552763) (by [@jerrod_lew](https://x.com/jerrod_lew))
-
-`🔤 Text→Image`
 
 <table>
 <tr>
@@ -291,8 +279,6 @@ If you find this useful, consider giving it a star. ⭐
 ## 🧪 Comparison & Community Examples
 
 ### Case 1: [10-Model Graffiti Comparison](https://x.com/GenIArt_Fr/status/2062110258491691240) (by [@GenIArt_Fr](https://x.com/GenIArt_Fr))
-
-`🔤 Text→Image`
 
 <table>
 <tr>
@@ -334,8 +320,6 @@ If you find this useful, consider giving it a star. ⭐
 
 ### Case 2: [Multilingual Text Rendering (Czech)](https://x.com/lukasersil/status/2062203909465129310) (by [@lukasersil](https://x.com/lukasersil))
 
-`🔤 Text→Image`
-
 <table>
 <tr>
 <td width="50%">
@@ -376,8 +360,6 @@ If you find this useful, consider giving it a star. ⭐
 
 ### Case 3: [Early-Access Design Showcase](https://x.com/venturetwins/status/2062207215961014735) (by [@venturetwins](https://x.com/venturetwins))
 
-`🔤 Text→Image`
-
 <table>
 <tr>
 <td width="50%">
@@ -412,8 +394,6 @@ If you find this useful, consider giving it a star. ⭐
 ---
 
 ### Case 4: [Open & Incredible](https://x.com/a16z/status/2062203114472813008) (by [@a16z](https://x.com/a16z))
-
-`🔤 Text→Image`
 
 <table>
 <tr>
@@ -454,8 +434,6 @@ If you find this useful, consider giving it a star. ⭐
 ---
 
 ### Case 5: [A Leap for Open Image Generation](https://x.com/LudovicCreator/status/2062207302690832683) (by [@LudovicCreator](https://x.com/LudovicCreator))
-
-`🔤 Text→Image`
 
 <table>
 <tr>
