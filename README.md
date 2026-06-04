@@ -113,8 +113,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > Ideogram 4.0 renders fine texture and the natural imperfections that separate a real photograph from an AI image — all in native 2K.
 
-> Source: [@ideogram_ai on X](https://x.com/ideogram_ai/status/2062202376833106365)
-
 ---
 
 ### Case 2: [Realistic Character Skin Texture](https://x.com/jerrod_lew/status/2062202782590095619) (by [@jerrod_lew](https://x.com/jerrod_lew))
@@ -144,8 +142,6 @@ If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
 > A step forward in detailed characters and skin texture — among the most realistic-looking people from an Ideogram model yet.
-
-> Source: [@jerrod_lew on X](https://x.com/jerrod_lew/status/2062202782590095619)
 
 ---
 
@@ -191,8 +187,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > Typography and graphic design remain 4.0's strongest capabilities — logos, posters, multi-font layouts, long-form text, and creative typography integrated into the design.
 
-> Source: [@ideogram_ai on X](https://x.com/ideogram_ai/status/2062202335250764220)
-
 ---
 
 ### Case 2: [Frontier of Design](https://x.com/ideogram_ai/status/2062202271367336383) (by [@ideogram_ai](https://x.com/ideogram_ai))
@@ -230,8 +224,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > Dense, accurate text rendering, native 2K resolution, native background transparency, and precise layout control.
 
-> Source: [@ideogram_ai on X](https://x.com/ideogram_ai/status/2062202271367336383)
-
 ---
 
 ## 🖼️ UI & Social Media Mockup Cases
@@ -264,8 +256,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > Stronger product imagery with accurate nutritional-information text. Image references can be supplied alongside the prompt for consistency.
 
-> Source: [@jerrod_lew on X](https://x.com/jerrod_lew/status/2062202833219568018)
-
 ---
 
 ### Case 2: [2K Dense Text Blocks](https://x.com/jerrod_lew/status/2062202754689552763) (by [@jerrod_lew](https://x.com/jerrod_lew))
@@ -295,8 +285,6 @@ If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
 > Native 2K generation keeps dense text blocks sharp — every word clearer and more detailed than before.
-
-> Source: [@jerrod_lew on X](https://x.com/jerrod_lew/status/2062202754689552763)
 
 ---
 
@@ -342,8 +330,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > An independent side-by-side of Ideogram 4.0 vs ImagineArt 2.0, Krea 2.0, Recraft v4.1, Grok, Uni-1.1, Flux2-Pro, NanoBanana 2, GPT-Image-2, and Midjourney v8.1 on a graffiti theme.
 
-> Source: [@GenIArt_Fr on X](https://x.com/GenIArt_Fr/status/2062110258491691240)
-
 ---
 
 ### Case 2: [Multilingual Text Rendering (Czech)](https://x.com/lukasersil/status/2062203909465129310) (by [@lukasersil](https://x.com/lukasersil))
@@ -386,8 +372,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > An independent test of readable Czech text rendering — a strong real-world signal for non-English typography. The author noted the prompts are long and posted them in the replies.
 
-> Source: [@lukasersil on X](https://x.com/lukasersil/status/2062203909465129310)
-
 ---
 
 ### Case 3: [Early-Access Design Showcase](https://x.com/venturetwins/status/2062207215961014735) (by [@venturetwins](https://x.com/venturetwins))
@@ -424,8 +408,6 @@ If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
 > Early-access examples emphasizing strong text rendering, high-resolution output, and design quality.
-
-> Source: [@venturetwins on X](https://x.com/venturetwins/status/2062207215961014735)
 
 ---
 
@@ -469,8 +451,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > An investor showcase of Ideogram 4.0 as an open, downloadable model — "incredible, and it's open."
 
-> Source: [@a16z on X](https://x.com/a16z/status/2062203114472813008)
-
 ---
 
 ### Case 5: [A Leap for Open Image Generation](https://x.com/LudovicCreator/status/2062207302690832683) (by [@LudovicCreator](https://x.com/LudovicCreator))
@@ -512,8 +492,6 @@ If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
 > An early-access creator's take: open weights, self-hosting, fine-tuning, API access, native 2K, transparent backgrounds, and stronger text rendering.
-
-> Source: [@LudovicCreator on X](https://x.com/LudovicCreator/status/2062207302690832683)
 
 ---
 ## 🙏 Acknowledge
