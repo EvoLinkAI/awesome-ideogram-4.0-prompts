@@ -6,7 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai)
 [![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://ideogram.ai/models/4.0)
 [![Weights](https://img.shields.io/badge/Open_Weights-GitHub-blue)](https://github.com/ideogram-oss/ideogram4)
-[![Cases](https://img.shields.io/badge/Cases-15-orange)](#-menu)
+[![Cases](https://img.shields.io/badge/Cases-23-orange)](#-menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -54,6 +54,7 @@ If you find this useful, consider giving it a star. ⭐
 - **June 3, 2026:** Available on launch partners including Hugging Face, ComfyUI, fal, Runware, Magnific, Krea, Leonardo, Picsart, Cloudflare, Replicate, Gamma, Flora, and Kittl.
 - **June 4, 2026:** First repository update — 11 launch-day example cases (multi-image galleries) across 4 categories.
 - **June 4, 2026:** Added 4 head-to-head comparison cases from RuntimeWire (real prompts) — Ideogram 4.0 wins the glass-of-water refraction/physics test against OpenAI, Google, and Microsoft.
+- **June 4, 2026:** Added 8 more cases from the launch-day 12h window — including three with real published prompts (rope-letter typography, 1000× macro typography, abstract pencil portraiture) and five community/comparison showcases.
 
 ## 📑 Menu
 
@@ -63,9 +64,12 @@ If you find this useful, consider giving it a star. ⭐
 - [📸 Portrait & Photography Cases](#-portrait--photography-cases)
   - [Case 1: Photorealistic Texture & Imperfections](#case-1-photorealistic-texture--imperfections-by-ideogram_ai)
   - [Case 2: Realistic Character Skin Texture](#case-2-realistic-character-skin-texture-by-jerrod_lew)
+  - [Case 3: Abstract Pencil Cross-Section Portrait](#case-3-abstract-pencil-cross-section-portrait-by-fofrai)
 - [🎨 Poster & Illustration Cases](#-poster--illustration-cases)
   - [Case 1: Typography & Graphic Design](#case-1-typography--graphic-design-by-ideogram_ai)
   - [Case 2: Frontier of Design](#case-2-frontier-of-design-by-ideogram_ai)
+  - [Case 3: Rope-Letter Typography](#case-3-rope-letter-typography-by-umesh_ai)
+  - [Case 4: 1000× Macro Typography Stress Test](#case-4-1000-macro-typography-stress-test-by-squeakalgaib)
 - [🖼️ UI & Social Media Mockup Cases](#️-ui--social-media-mockup-cases)
   - [Case 1: Product Packaging with Nutrition Labels](#case-1-product-packaging-with-nutrition-labels-by-jerrod_lew)
   - [Case 2: 2K Dense Text Blocks](#case-2-2k-dense-text-blocks-by-jerrod_lew)
@@ -79,6 +83,11 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 7: Four Generations of a Smartphone](#case-7-four-generations-of-a-smartphone-by-runtimewire)
   - [Case 8: Nimbus Brand Identity System](#case-8-nimbus-brand-identity-system-by-runtimewire)
   - [Case 9: Glass of Water Refraction Physics](#case-9-glass-of-water-refraction-physics-by-runtimewire)
+  - [Case 10: Surrealism: Ideogram 4 vs GPT Image 2](#case-10-surrealism-ideogram-4-vs-gpt-image-2-by-jasperdevs)
+  - [Case 11: Lipstick Ad: Ideogram 4 vs GPT Image 2](#case-11-lipstick-ad-ideogram-4-vs-gpt-image-2-by-vortex_promos)
+  - [Case 12: Crisp Open-Weight Generations](#case-12-crisp-open-weight-generations-by-fofrai)
+  - [Case 13: Open Model Across Visual Styles](#case-13-open-model-across-visual-styles-by-azed_ai)
+  - [Case 14: Four Open-Source Test Generations](#case-14-four-open-source-test-generations-by-ozansihay)
 - [🙏 Acknowledge](#-acknowledge)
 
 ## 📸 Portrait & Photography Cases
@@ -136,6 +145,21 @@ If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
 > A step forward in detailed characters and skin texture — among the most realistic-looking people from an Ideogram model yet.
+
+---
+
+### Case 3: [Abstract Pencil Cross-Section Portrait](https://x.com/fofrAI/status/2062264139574067612) (by [@fofrAI](https://x.com/fofrAI))
+
+<img src="images/portrait_case3/output.jpg" width="500">
+
+**Prompt:**
+
+```
+a scan of a page from my high school A3 art pad, highly original niche pencil piece working on the aura of unusual cross sections and fluidity of otherwise solid surfaces in human portraiture with offset recursion, not anatomical, the cross sections reveal something else, very detailed and complex, no other anatomy, no embellishments, no pencil shavings, no tea stains, clean white paper
+```
+
+> [!NOTE]
+> An abstract pencil study of cross-sections and fluidity in human portraiture — a strong example of Ideogram 4.0's non-photographic, fine-detail illustration.
 
 ---
 
@@ -201,6 +225,36 @@ If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
 > Dense, accurate text rendering, native 2K resolution, native background transparency, and precise layout control.
+
+---
+
+### Case 3: [Rope-Letter Typography](https://x.com/umesh_ai/status/2062257828249915733) (by [@umesh_ai](https://x.com/umesh_ai))
+
+<img src="images/poster_case3/output.jpg" width="500">
+
+**Prompt:**
+
+```
+"[NAME]" spelled out through the art of minimalist rope design. Each letter is shaped by the continuous twists and bends of a single red rope, placed against a clean white background. The rope curves naturally, with realistic tension and shadows, giving the impression of soft fiber under gentle strain. Negative space within the loops defines the letterforms clearly, while the rope’s overlapping layers suggest depth and intricacy. The composition conveys connection, resilience, and elegance, balancing simplicity with detail. The final aesthetic feels refined, meaningful, and inventive, presenting "[NAME]" as if written by the rope itself.
+```
+
+> [!NOTE]
+> Replace `[NAME]` with the word you want formed from rope. Shows Ideogram 4.0 shaping legible letterforms from a single continuous object with realistic tension and shadow.
+
+---
+
+### Case 4: [1000× Macro Typography Stress Test](https://x.com/SqueakAlGaib/status/2062371783400202255) (by [@SqueakAlGaib](https://x.com/SqueakAlGaib))
+
+<img src="images/poster_case4/output.jpg" width="500">
+
+**Prompt:**
+
+```
+The entire visible frame is a 1000x magnified view of a single printed letter 'G' from the word 'ELEGANCE' that is printed in 4-point Garamond type on a high-resolution magazine page. At this magnification, you can see the individual ink droplets from the CMYK printing process, the physical paper fiber texture of the coated stock (approximately 120 microns per fiber), the moiré pattern from the four-color halftone screen at 175 lines per inch, and the slight dot gain where cyan, magenta, yellow, and black inks are slightly misregistered (visible as tiny color fringes at letter edges). The 'G' itself is rendered in extreme serif detail showing the hairline serif with its bracketed transition from stroke, the actual ink pooling at stroke junctions due to surface tension, and the counter (negative space inside the G) showing the paper's natural off-white color. In the background, completely out of focus due to shallow depth of field at this magnification, you can barely make out the surrounding letters 'E-L-E-G-A-N-C-E' repeating in a pattern, some upside down, some rotated 180 degrees. The lighting is macro photography ring light from directly above, creating no shadows on the letter but revealing the subtle surface topography of the printed ink. At the TOP of the image, tiny 1mm text in the actual world scale reads 'magnified 1000×' in 6-point Helvetica, but this text must be barely legible despite being 1000x smaller than the main subject — a brutal scale contradiction.
+```
+
+> [!NOTE]
+> A typography stress test: a 1000× macro of a printed letter showing ink droplets, paper fiber, halftone moiré, and tiny legible caption text — a showcase of 4.0's dense small-text rendering.
 
 ---
 
@@ -571,6 +625,152 @@ Create a photorealistic scene showing a glass of water in front of a newspaper, 
 > RuntimeWire head-to-head — Ideogram 4.0 WON this test. Physical-realism test of water/glass/light/shadow/text interaction. Ranking: Ideogram > Google > OpenAI > Microsoft.
 
 ---
+### Case 10: [Surrealism: Ideogram 4 vs GPT Image 2](https://x.com/jasperdevs/status/2062232495517552716) (by [@jasperdevs](https://x.com/jasperdevs))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case10/output.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case10/output2.jpg" width="100%">
+
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> Surrealism head-to-head — the author found Ideogram 4 markedly stronger than GPT Image v2 on artistic/surreal renders.
+
+---
+
+### Case 11: [Lipstick Ad: Ideogram 4 vs GPT Image 2](https://x.com/VORTEX_Promos/status/2062276884738490397) (by [@VORTEX_Promos](https://x.com/VORTEX_Promos))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case11/output.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case11/output2.jpg" width="100%">
+
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> An ad-concept comparison (a lipstick campaign) between Ideogram v4 and GPT Image 2.
+
+---
+
+### Case 12: [Crisp Open-Weight Generations](https://x.com/fofrAI/status/2062251438990930323) (by [@fofrAI](https://x.com/fofrAI))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case12/output.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case12/output2.jpg" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case12/output3.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case12/output4.jpg" width="100%">
+
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> Open-weight showcase — crisp, fresh generations across varied subjects.
+
+---
+
+### Case 13: [Open Model Across Visual Styles](https://x.com/azed_ai/status/2062225166567149776) (by [@azed_ai](https://x.com/azed_ai))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case13/output.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case13/output2.jpg" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case13/output3.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case13/output4.jpg" width="100%">
+
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> One open model across photography, art, cartoons, and text-based designs.
+
+---
+
+### Case 14: [Four Open-Source Test Generations](https://x.com/ozansihay/status/2062305930994192638) (by [@ozansihay](https://x.com/ozansihay))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case14/output.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case14/output2.jpg" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case14/output3.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case14/output4.jpg" width="100%">
+
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> Four community test generations of the newly open-sourced Ideogram 4.0.
+
+---
+
 ## 🙏 Acknowledge
 
 This repository was inspired by excellent open prompt collections and community-shared examples.
@@ -585,6 +785,13 @@ Thanks to the creators and contributors who shared their work publicly and made 
 - [@a16z](https://x.com/a16z)
 - [@LudovicCreator](https://x.com/LudovicCreator)
 - [Ryan Merket / RuntimeWire](https://runtimewire.com/author/ryan-merket)
+- [@fofrAI](https://x.com/fofrAI)
+- [@umesh_ai](https://x.com/umesh_ai)
+- [@SqueakAlGaib](https://x.com/SqueakAlGaib)
+- [@jasperdevs](https://x.com/jasperdevs)
+- [@VORTEX_Promos](https://x.com/VORTEX_Promos)
+- [@azed_ai](https://x.com/azed_ai)
+- [@ozansihay](https://x.com/ozansihay)
 
 *We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.*
 
