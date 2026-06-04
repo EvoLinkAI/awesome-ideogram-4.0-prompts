@@ -26,7 +26,7 @@
 
 Welcome to the **Ideogram 4.0** prompt repository! 🤗
 
-**We collect high-quality prompts and image examples for Ideogram 4.0 across a wide range of tasks and creative workflows** — typography and poster design, photorealistic portraits, product and UI mockups, and side-by-side model comparisons.
+**We collect high-quality prompts and image examples for Ideogram 4.0 across a wide range of tasks and creative workflows** — typography and poster design, photorealistic portraits, product & packaging design, and side-by-side model comparisons.
 
 Ideogram 4.0 launched on June 3, 2026 as **the best open-weight text-to-image model in the world** (ranked #1 open model on third-party arenas). It ships with native 2K resolution, native background transparency, dense and accurate multilingual text rendering, and bounding-box layout control — and you can download the weights, fine-tune them, and self-host.
 
@@ -52,7 +52,7 @@ If you find this useful, consider giving it a star. ⭐
 
 - **June 3, 2026:** Ideogram 4.0 released — the #1 open-weight text-to-image model on third-party arenas, with native 2K, transparent backgrounds, and downloadable open weights.
 - **June 3, 2026:** Available on launch partners including Hugging Face, ComfyUI, fal, Runware, Magnific, Krea, Leonardo, Picsart, Cloudflare, Replicate, Gamma, Flora, and Kittl.
-- **June 4, 2026:** First repository update — 11 launch-day example cases (multi-image galleries) across 4 categories.
+- **June 4, 2026:** First repository update — 11 launch-day example cases (multi-image galleries) across the category sections.
 - **June 4, 2026:** Added 4 head-to-head comparison cases from RuntimeWire (real prompts) — Ideogram 4.0 wins the glass-of-water refraction/physics test against OpenAI, Google, and Microsoft.
 - **June 4, 2026:** Added 8 more cases from the launch-day 12h window — including three with real published prompts (rope-letter typography, 1000× macro typography, abstract pencil portraiture) and five community/comparison showcases.
 
@@ -64,15 +64,14 @@ If you find this useful, consider giving it a star. ⭐
 - [📸 Portrait & Photography Cases](#-portrait--photography-cases)
   - [Case 1: Photorealistic Texture & Imperfections](#case-1-photorealistic-texture--imperfections-by-ideogram_ai)
   - [Case 2: Realistic Character Skin Texture](#case-2-realistic-character-skin-texture-by-jerrod_lew)
-  - [Case 3: Abstract Pencil Cross-Section Portrait](#case-3-abstract-pencil-cross-section-portrait-by-fofrai)
 - [🎨 Poster & Illustration Cases](#-poster--illustration-cases)
   - [Case 1: Typography & Graphic Design](#case-1-typography--graphic-design-by-ideogram_ai)
   - [Case 2: Frontier of Design](#case-2-frontier-of-design-by-ideogram_ai)
   - [Case 3: Rope-Letter Typography](#case-3-rope-letter-typography-by-umesh_ai)
   - [Case 4: 1000× Macro Typography Stress Test](#case-4-1000-macro-typography-stress-test-by-squeakalgaib)
-- [🖼️ UI & Social Media Mockup Cases](#️-ui--social-media-mockup-cases)
-  - [Case 1: Product Packaging with Nutrition Labels](#case-1-product-packaging-with-nutrition-labels-by-jerrod_lew)
-  - [Case 2: 2K Dense Text Blocks](#case-2-2k-dense-text-blocks-by-jerrod_lew)
+  - [Case 5: 2K Dense Text Blocks](#case-5-2k-dense-text-blocks-by-jerrod_lew)
+  - [Case 6: Abstract Pencil Cross-Section Portrait](#case-6-abstract-pencil-cross-section-portrait-by-fofrai)
+  - [Case 7: Product Packaging with Nutrition Labels](#case-7-product-packaging-with-nutrition-labels-by-jerrod_lew)
 - [🧪 Comparison & Community Examples](#-comparison--community-examples)
   - [Case 1: 10-Model Graffiti Comparison](#case-1-10-model-graffiti-comparison-by-geniart_fr)
   - [Case 2: Multilingual Text Rendering (Czech)](#case-2-multilingual-text-rendering-czech-by-lukasersil)
@@ -145,21 +144,6 @@ If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
 > A step forward in detailed characters and skin texture — among the most realistic-looking people from an Ideogram model yet.
-
----
-
-### Case 3: [Abstract Pencil Cross-Section Portrait](https://x.com/fofrAI/status/2062264139574067612) (by [@fofrAI](https://x.com/fofrAI))
-
-<img src="images/portrait_case3/output.jpg" width="500">
-
-**Prompt:**
-
-```
-a scan of a page from my high school A3 art pad, highly original niche pencil piece working on the aura of unusual cross sections and fluidity of otherwise solid surfaces in human portraiture with offset recursion, not anatomical, the cross sections reveal something else, very detailed and complex, no other anatomy, no embellishments, no pencil shavings, no tea stains, clean white paper
-```
-
-> [!NOTE]
-> An abstract pencil study of cross-sections and fluidity in human portraiture — a strong example of Ideogram 4.0's non-photographic, fine-detail illustration.
 
 ---
 
@@ -258,42 +242,18 @@ The entire visible frame is a 1000x magnified view of a single printed letter 'G
 
 ---
 
-## 🖼️ UI & Social Media Mockup Cases
-
-### Case 1: [Product Packaging with Nutrition Labels](https://x.com/jerrod_lew/status/2062202833219568018) (by [@jerrod_lew](https://x.com/jerrod_lew))
+### Case 5: [2K Dense Text Blocks](https://x.com/jerrod_lew/status/2062202754689552763) (by [@jerrod_lew](https://x.com/jerrod_lew))
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="images/ui_case1/output.jpg" width="100%">
+<img src="images/poster_case5/output.jpg" width="100%">
 
 </td>
 <td width="50%">
 
-<img src="images/ui_case1/output2.jpg" width="100%">
-
-</td>
-</tr>
-</table>
-
-> [!NOTE]
-> Stronger product imagery with accurate nutritional-information text. Image references can be supplied alongside the prompt for consistency.
-
----
-
-### Case 2: [2K Dense Text Blocks](https://x.com/jerrod_lew/status/2062202754689552763) (by [@jerrod_lew](https://x.com/jerrod_lew))
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="images/ui_case2/output.jpg" width="100%">
-
-</td>
-<td width="50%">
-
-<img src="images/ui_case2/output2.jpg" width="100%">
+<img src="images/poster_case5/output2.jpg" width="100%">
 
 </td>
 </tr>
@@ -301,6 +261,43 @@ The entire visible frame is a 1000x magnified view of a single printed letter 'G
 
 > [!NOTE]
 > Native 2K generation keeps dense text blocks sharp — every word clearer and more detailed than before.
+
+---
+
+### Case 6: [Abstract Pencil Cross-Section Portrait](https://x.com/fofrAI/status/2062264139574067612) (by [@fofrAI](https://x.com/fofrAI))
+
+<img src="images/poster_case6/output.jpg" width="500">
+
+**Prompt:**
+
+```
+a scan of a page from my high school A3 art pad, highly original niche pencil piece working on the aura of unusual cross sections and fluidity of otherwise solid surfaces in human portraiture with offset recursion, not anatomical, the cross sections reveal something else, very detailed and complex, no other anatomy, no embellishments, no pencil shavings, no tea stains, clean white paper
+```
+
+> [!NOTE]
+> An abstract pencil study of cross-sections and fluidity in human portraiture — a strong example of Ideogram 4.0's non-photographic, fine-detail illustration.
+
+---
+
+### Case 7: [Product Packaging with Nutrition Labels](https://x.com/jerrod_lew/status/2062202833219568018) (by [@jerrod_lew](https://x.com/jerrod_lew))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/poster_case7/output.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/poster_case7/output2.jpg" width="100%">
+
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> Stronger product imagery with accurate nutritional-information text. Image references can be supplied alongside the prompt for consistency.
 
 ---
 
@@ -625,6 +622,7 @@ Create a photorealistic scene showing a glass of water in front of a newspaper, 
 > RuntimeWire head-to-head — Ideogram 4.0 WON this test. Physical-realism test of water/glass/light/shadow/text interaction. Ranking: Ideogram > Google > OpenAI > Microsoft.
 
 ---
+
 ### Case 10: [Surrealism: Ideogram 4 vs GPT Image 2](https://x.com/jasperdevs/status/2062232495517552716) (by [@jasperdevs](https://x.com/jasperdevs))
 
 <table>
