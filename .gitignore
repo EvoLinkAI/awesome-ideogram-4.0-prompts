@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+tmp/
+*.tmp
+
+# Internal tooling, raw intake & local agent notes — not for public repo
+.skills/
+ideogram-4.0/
+data/
+CLAUDE.md
