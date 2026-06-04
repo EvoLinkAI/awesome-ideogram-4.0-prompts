@@ -30,6 +30,11 @@ Welcome to the **Ideogram 4.0** prompt repository! 🤗
 
 Ideogram 4.0 launched on June 3, 2026 as **the best open-weight text-to-image model in the world** (ranked #1 open model on third-party arenas). It ships with native 2K resolution, native background transparency, dense and accurate multilingual text rendering, and bounding-box layout control — and you can download the weights, fine-tune them, and self-host.
 
+<div align="center">
+<img src="images/leaderboard.png" alt="Ideogram 4.0 is the #1 open-weight model on the DesignArena Text-to-Image leaderboard" width="760">
+<br><sub><b>Proof:</b> Ideogram 4.0 is the <b>#1 open-weight</b> model on the <a href="https://x.com/a16z/status/2062203114472813008">DesignArena Text-to-Image leaderboard</a> (Elo 1285) — behind only closed models from OpenAI and Google.</sub>
+</div>
+
 Most cases in this repository are curated from X/Twitter, creator communities, and public launch demos.
 
 Try it on Evolink: [Ideogram 4.0](https://ideogram.ai/models/4.0)
@@ -365,11 +370,6 @@ If you find this useful, consider giving it a star. ⭐
 <img src="images/comparison_case4/output3.jpg" width="100%">
 
 </td>
-<td width="50%">
-
-<img src="images/comparison_case4/output4.png" width="100%">
-
-</td>
 </tr>
 </table>
 
@@ -414,7 +414,32 @@ If you find this useful, consider giving it a star. ⭐
 
 ### Case 6: [4-Panel Startup Storyboard](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
 
-<img src="images/comparison_case6/output.png" width="450">
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case6/output.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case6/output2.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case6/output3.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case6/output4.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 **Prompt:**
 
@@ -429,7 +454,32 @@ Create a 4-panel comic storyboard showing the launch of a startup.
 
 ### Case 7: [Four Generations of a Smartphone](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
 
-<img src="images/comparison_case7/output.png" width="450">
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case7/output.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case7/output2.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case7/output3.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case7/output4.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 **Prompt:**
 
@@ -459,7 +509,32 @@ Create a complete visual identity system for a fictional company called Nimbus.
 
 ### Case 9: [Glass of Water Refraction Physics](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
 
-<img src="images/comparison_case9/output.png" width="450">
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case9/output.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case9/output2.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case9/output3.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case9/output4.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 **Prompt:**
 
