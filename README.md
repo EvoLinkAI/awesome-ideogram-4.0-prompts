@@ -414,32 +414,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ### Case 6: [4-Panel Startup Storyboard](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="images/comparison_case6/output.png" width="100%">
-
-</td>
-<td width="50%">
-
-<img src="images/comparison_case6/output2.png" width="100%">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="images/comparison_case6/output3.png" width="100%">
-
-</td>
-<td width="50%">
-
-<img src="images/comparison_case6/output4.png" width="100%">
-
-</td>
-</tr>
-</table>
+<img src="images/comparison_case6/output.png" width="450">
 
 **Prompt:**
 
@@ -454,32 +429,7 @@ Create a 4-panel comic storyboard showing the launch of a startup.
 
 ### Case 7: [Four Generations of a Smartphone](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="images/comparison_case7/output.png" width="100%">
-
-</td>
-<td width="50%">
-
-<img src="images/comparison_case7/output2.png" width="100%">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="images/comparison_case7/output3.png" width="100%">
-
-</td>
-<td width="50%">
-
-<img src="images/comparison_case7/output4.png" width="100%">
-
-</td>
-</tr>
-</table>
+<img src="images/comparison_case7/output.png" width="450">
 
 **Prompt:**
 
@@ -509,32 +459,7 @@ Create a complete visual identity system for a fictional company called Nimbus.
 
 ### Case 9: [Glass of Water Refraction Physics](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="images/comparison_case9/output.png" width="100%">
-
-</td>
-<td width="50%">
-
-<img src="images/comparison_case9/output2.png" width="100%">
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="images/comparison_case9/output3.png" width="100%">
-
-</td>
-<td width="50%">
-
-<img src="images/comparison_case9/output4.png" width="100%">
-
-</td>
-</tr>
-</table>
+<img src="images/comparison_case9/output.png" width="450">
 
 **Prompt:**
 
