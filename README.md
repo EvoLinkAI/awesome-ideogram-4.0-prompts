@@ -44,10 +44,6 @@ If you find this useful, consider giving it a star. ⭐
 > [!NOTE]
 > This repository is in its early seed stage. Each case shows a **real, publicly shared example image** with full attribution. Cases include a `Prompt` block **only when the original author published the exact prompt** — we never fabricate or guess prompts, so launch-day showcase cases (where only results were shared) intentionally omit the prompt and link to the source instead.
 
-<a href='https://ideogram.ai/models/4.0'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
-<a href='https://evolink.ai'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
-<a href='https://github.com/ideogram-oss/ideogram4'><img src='https://img.shields.io/badge/⚙️ Open%20Weights-GitHub-blue' height="25"></a>
-
 ## 📰 News
 
 - **June 3, 2026:** Ideogram 4.0 released — the #1 open-weight text-to-image model on third-party arenas, with native 2K, transparent backgrounds, and downloadable open weights.
