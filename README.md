@@ -494,7 +494,32 @@ Show four generations of a smartphone evolving over time.
 
 ### Case 8: [Nimbus Brand Identity System](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
 
-<img src="images/comparison_case8/output.png" width="450">
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case8/output.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case8/output2.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case8/output3.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case8/output4.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 **Prompt:**
 
