@@ -6,7 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai)
 [![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://ideogram.ai/models/4.0)
 [![Weights](https://img.shields.io/badge/Open_Weights-GitHub-blue)](https://github.com/ideogram-oss/ideogram4)
-[![Cases](https://img.shields.io/badge/Cases-11-orange)](#-menu)
+[![Cases](https://img.shields.io/badge/Cases-15-orange)](#-menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -37,7 +37,7 @@ Try it on Evolink: [Ideogram 4.0](https://ideogram.ai/models/4.0)
 If you find this useful, consider giving it a star. ⭐
 
 > [!NOTE]
-> This repository is in its early seed stage. Each case below shows a **real, publicly shared example image** with full attribution. Where the original author did not publish the exact prompt (many launch-day posts only show results, or place prompts in reply threads), the `Prompt` block is marked as **to be collected** rather than guessed. We never fabricate a prompt.
+> This repository is in its early seed stage. Each case shows a **real, publicly shared example image** with full attribution. Cases include a `Prompt` block **only when the original author published the exact prompt** — we never fabricate or guess prompts, so launch-day showcase cases (where only results were shared) intentionally omit the prompt and link to the source instead.
 
 <a href='https://ideogram.ai/models/4.0'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
 <a href='https://evolink.ai'><img src='https://img.shields.io/badge/🌐 Website-Evolink-orange' height="25"></a>
@@ -48,6 +48,7 @@ If you find this useful, consider giving it a star. ⭐
 - **June 3, 2026:** Ideogram 4.0 released — the #1 open-weight text-to-image model on third-party arenas, with native 2K, transparent backgrounds, and downloadable open weights.
 - **June 3, 2026:** Available on launch partners including Hugging Face, ComfyUI, fal, Runware, Magnific, Krea, Leonardo, Picsart, Cloudflare, Replicate, Gamma, Flora, and Kittl.
 - **June 4, 2026:** First repository update — 11 launch-day example cases (multi-image galleries) across 4 categories.
+- **June 4, 2026:** Added 4 head-to-head comparison cases from RuntimeWire (real prompts) — Ideogram 4.0 wins the glass-of-water refraction/physics test against OpenAI, Google, and Microsoft.
 
 ## 📑 Menu
 
@@ -69,6 +70,10 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 3: Early-Access Design Showcase](#case-3-early-access-design-showcase-by-venturetwins)
   - [Case 4: Open & Incredible](#case-4-open--incredible-by-a16z)
   - [Case 5: A Leap for Open Image Generation](#case-5-a-leap-for-open-image-generation-by-ludoviccreator)
+  - [Case 6: 4-Panel Startup Storyboard](#case-6-4-panel-startup-storyboard-by-runtimewire)
+  - [Case 7: Four Generations of a Smartphone](#case-7-four-generations-of-a-smartphone-by-runtimewire)
+  - [Case 8: Nimbus Brand Identity System](#case-8-nimbus-brand-identity-system-by-runtimewire)
+  - [Case 9: Glass of Water Refraction Physics](#case-9-glass-of-water-refraction-physics-by-runtimewire)
 - [🙏 Acknowledge](#-acknowledge)
 
 ## 📸 Portrait & Photography Cases
@@ -102,12 +107,6 @@ If you find this useful, consider giving it a star. ⭐
 </tr>
 </table>
 
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
-
 > [!NOTE]
 > Ideogram 4.0 renders fine texture and the natural imperfections that separate a real photograph from an AI image — all in native 2K.
 
@@ -129,12 +128,6 @@ If you find this useful, consider giving it a star. ⭐
 </td>
 </tr>
 </table>
-
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
 
 > [!NOTE]
 > A step forward in detailed characters and skin texture — among the most realistic-looking people from an Ideogram model yet.
@@ -172,12 +165,6 @@ If you find this useful, consider giving it a star. ⭐
 </tr>
 </table>
 
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
-
 > [!NOTE]
 > Typography and graphic design remain 4.0's strongest capabilities — logos, posters, multi-font layouts, long-form text, and creative typography integrated into the design.
 
@@ -207,12 +194,6 @@ If you find this useful, consider giving it a star. ⭐
 </tr>
 </table>
 
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
-
 > [!NOTE]
 > Dense, accurate text rendering, native 2K resolution, native background transparency, and precise layout control.
 
@@ -237,12 +218,6 @@ If you find this useful, consider giving it a star. ⭐
 </tr>
 </table>
 
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
-
 > [!NOTE]
 > Stronger product imagery with accurate nutritional-information text. Image references can be supplied alongside the prompt for consistency.
 
@@ -264,12 +239,6 @@ If you find this useful, consider giving it a star. ⭐
 </td>
 </tr>
 </table>
-
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
 
 > [!NOTE]
 > Native 2K generation keeps dense text blocks sharp — every word clearer and more detailed than before.
@@ -307,12 +276,6 @@ If you find this useful, consider giving it a star. ⭐
 </tr>
 </table>
 
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
-
 > [!NOTE]
 > An independent side-by-side of Ideogram 4.0 vs ImagineArt 2.0, Krea 2.0, Recraft v4.1, Grok, Uni-1.1, Flux2-Pro, NanoBanana 2, GPT-Image-2, and Midjourney v8.1 on a graffiti theme.
 
@@ -347,12 +310,6 @@ If you find this useful, consider giving it a star. ⭐
 </tr>
 </table>
 
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
-
 > [!NOTE]
 > An independent test of readable Czech text rendering — a strong real-world signal for non-English typography. The author noted the prompts are long and posted them in the replies.
 
@@ -381,12 +338,6 @@ If you find this useful, consider giving it a star. ⭐
 </td>
 </tr>
 </table>
-
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
 
 > [!NOTE]
 > Early-access examples emphasizing strong text rendering, high-resolution output, and design quality.
@@ -422,12 +373,6 @@ If you find this useful, consider giving it a star. ⭐
 </tr>
 </table>
 
-**Prompt:**
-
-```
-[to be collected — author shared the result image(s) without publishing the prompt]
-```
-
 > [!NOTE]
 > An investor showcase of Ideogram 4.0 as an open, downloadable model — "incredible, and it's open."
 
@@ -462,14 +407,143 @@ If you find this useful, consider giving it a star. ⭐
 </tr>
 </table>
 
+> [!NOTE]
+> An early-access creator's take: open weights, self-hosting, fine-tuning, API access, native 2K, transparent backgrounds, and stronger text rendering.
+
+---
+
+### Case 6: [4-Panel Startup Storyboard](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case6/output.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case6/output2.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case6/output3.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case6/output4.png" width="100%">
+
+</td>
+</tr>
+</table>
+
 **Prompt:**
 
 ```
-[to be collected — author shared the result image(s) without publishing the prompt]
+Create a 4-panel comic storyboard showing the launch of a startup.
 ```
 
 > [!NOTE]
-> An early-access creator's take: open weights, self-hosting, fine-tuning, API access, native 2K, transparent backgrounds, and stronger text rendering.
+> RuntimeWire head-to-head (OpenAI vs Google vs Microsoft vs Ideogram). Storytelling test from garage startup to Nasdaq listing with character consistency across panels. Ranking: Google > Microsoft > OpenAI > Ideogram.
+
+---
+
+### Case 7: [Four Generations of a Smartphone](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case7/output.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case7/output2.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case7/output3.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case7/output4.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+**Prompt:**
+
+```
+Show four generations of a smartphone evolving over time.
+```
+
+> [!NOTE]
+> RuntimeWire head-to-head. Product-evolution test (believable progression from 2007 to 2035). Ranking: OpenAI > Microsoft > Google > Ideogram.
+
+---
+
+### Case 8: [Nimbus Brand Identity System](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
+
+<img src="images/comparison_case8/output.png" width="450">
+
+**Prompt:**
+
+```
+Create a complete visual identity system for a fictional company called Nimbus.
+```
+
+> [!NOTE]
+> RuntimeWire head-to-head. Full brand-system test — primary & alternate logo, app icon, business card, website homepage, color palette, packaging. Ranking: OpenAI > Google > Microsoft > Ideogram.
+
+---
+
+### Case 9: [Glass of Water Refraction Physics](https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image) (by [@runtimewire](https://x.com/runtimewire))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case9/output.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case9/output2.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case9/output3.png" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case9/output4.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+**Prompt:**
+
+```
+Create a photorealistic scene showing a glass of water in front of a newspaper, with realistic refraction and distortion.
+```
+
+> [!NOTE]
+> RuntimeWire head-to-head — Ideogram 4.0 WON this test. Physical-realism test of water/glass/light/shadow/text interaction. Ranking: Ideogram > Google > OpenAI > Microsoft.
 
 ---
 ## 🙏 Acknowledge
@@ -485,6 +559,7 @@ Thanks to the creators and contributors who shared their work publicly and made 
 - [@venturetwins](https://x.com/venturetwins)
 - [@a16z](https://x.com/a16z)
 - [@LudovicCreator](https://x.com/LudovicCreator)
+- [Ryan Merket / RuntimeWire](https://runtimewire.com/author/ryan-merket)
 
 *We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.*
 
