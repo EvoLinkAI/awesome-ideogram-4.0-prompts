@@ -6,7 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Weights](https://img.shields.io/badge/Open_Weights-GitHub-blue)](https://github.com/ideogram-oss/ideogram4)
-[![Cases](https://img.shields.io/badge/Cases-23-orange)](#-menu)
+[![Cases](https://img.shields.io/badge/Cases-25-orange)](#-menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -51,6 +51,8 @@ If you find this useful, consider giving it a star. ⭐
 - **June 4, 2026:** First repository update — 11 launch-day example cases (multi-image galleries) across the category sections.
 - **June 4, 2026:** Added 4 head-to-head comparison cases from RuntimeWire (real prompts) — Ideogram 4.0 wins the glass-of-water refraction/physics test against OpenAI, Google, and Microsoft.
 - **June 4, 2026:** Added 8 more cases from the launch-day 12h window — including three with real published prompts (rope-letter typography, 1000× macro typography, abstract pencil portraiture) and five community/comparison showcases.
+- **June 7, 2026:** Added 2 community cases from the first weekend wave — a Japanese fantasy warrior prompt and a power-user Ideogram 4 JSON caption-generator workflow prompt.
+
 
 ## 📑 Menu
 
@@ -68,6 +70,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 5: 2K Dense Text Blocks](#case-5-2k-dense-text-blocks-by-jerrod_lew)
   - [Case 6: Abstract Pencil Cross-Section Portrait](#case-6-abstract-pencil-cross-section-portrait-by-fofrai)
   - [Case 7: Product Packaging with Nutrition Labels](#case-7-product-packaging-with-nutrition-labels-by-jerrod_lew)
+  - [Case 8: Isekai Schoolgirl Warrior](#case-8-isekai-schoolgirl-warrior-by-fet_shizaibu)
 - [🧪 Comparison & Community Examples](#-comparison--community-examples)
   - [Case 1: 10-Model Graffiti Comparison](#case-1-10-model-graffiti-comparison-by-geniart_fr)
   - [Case 2: Multilingual Text Rendering (Czech)](#case-2-multilingual-text-rendering-czech-by-lukasersil)
@@ -83,6 +86,7 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 12: Crisp Open-Weight Generations](#case-12-crisp-open-weight-generations-by-fofrai)
   - [Case 13: Open Model Across Visual Styles](#case-13-open-model-across-visual-styles-by-azed_ai)
   - [Case 14: Four Open-Source Test Generations](#case-14-four-open-source-test-generations-by-ozansihay)
+  - [Case 15: Ideogram 4 JSON Caption Generator](#case-15-ideogram-4-json-caption-generator-by-photogenicweeke)
 - [🙏 Acknowledge](#-acknowledge)
 
 ## 📸 Portrait & Photography Cases
@@ -294,6 +298,22 @@ a scan of a page from my high school A3 art pad, highly original niche pencil pi
 
 > [!NOTE]
 > Stronger product imagery with accurate nutritional-information text. Image references can be supplied alongside the prompt for consistency.
+
+---
+
+
+### Case 8: [Isekai Schoolgirl Warrior](https://x.com/FET_SHIZAIBU/status/2063462042221310257) (by [@FET_SHIZAIBU](https://x.com/FET_SHIZAIBU))
+
+<img src="images/poster_case8/output.jpg" width="500">
+
+**Prompt:**
+
+```
+異世界に転移した女子高生が、学生服（Yシャツにネクタイ、プリーツスカート）に肩当・胸当て・手甲を付けた戦士スタイルで、ショートソードを右手に、ラウンドシールドを左手に構え、真剣な表情で隙のない構えをとっている。アイレベルの全身ショット。アクションシーン。女子高生はやや画面右に位置したオフセット構図。画像解像度: 幅:1024 高さ:1024
+```
+
+> [!NOTE]
+> A concise Japanese fantasy action prompt: school uniform + light armor + sword-and-shield stance, composed as a clean full-body action shot.
 
 ---
 
@@ -762,6 +782,192 @@ Create a photorealistic scene showing a glass of water in front of a newspaper, 
 
 > [!NOTE]
 > Four community test generations of the newly open-sourced Ideogram 4.0.
+
+---
+
+
+### Case 15: [Ideogram 4 JSON Caption Generator](https://x.com/PhotogenicWeekE/status/2063453896337715389) (by [@PhotogenicWeekE](https://x.com/PhotogenicWeekE))
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case15/output.jpg" width="100%">
+
+</td>
+<td width="50%">
+
+<img src="images/comparison_case15/output2.jpg" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="images/comparison_case15/output3.jpg" width="100%">
+
+</td>
+</tr>
+</table>
+
+**Prompt:**
+
+```
+    You are an Ideogram 4 JSON caption generator.
+
+    The user will specify the aspect ratio, resolution, and image content. Use both the aspect ratio and pixel dimensions to calculate appropriate bbox coordinates on the 0-1000 scale.
+
+    When the user describes an image, output ONLY a valid JSON object. No explanation, no markdown, no code blocks — raw JSON only.
+
+    ## Aspect ratio, resolution and bbox relationship
+
+    bbox is [ymin, xmin, ymax, xmax] on a 0-1000 normalized scale.
+    The 0-1000 grid maps to actual pixel dimensions according to the resolution.
+    You MUST use both aspect ratio AND pixel dimensions when placing elements.
+
+    For example:
+    - At 1024x1536: (ymax - ymin) / 1000 × 1536px = actual vertical pixels for the element
+    - At 2048x3072: (ymax - ymin) / 1000 × 3072px = actual vertical pixels for the element
+    - At 1024x1024: (ymax - ymin) / 1000 × 1024px = actual vertical pixels for the element
+    - At 1680x944: (ymax - ymin) / 1000 × 944px = actual vertical pixels for the element
+    - Always verify that bbox gives enough pixel space for the described subject
+
+    ### Vertical landmark guide by aspect ratio
+
+    For a full standing figure, use these approximate ymin/ymax landmarks:
+
+    | Body part   | 2:3 (portrait) | 1:1 (square) | 3:2 (landscape) | 16:9 (landscape) |
+    |-------------|----------------|--------------|-----------------|------------------|
+    | Top of head | 30             | 30           | 50              | 80               |
+    | Chin        | 150            | 200          | 250             | 280              |
+    | Shoulders   | 200            | 250          | 300             | 330              |
+    | Chest       | 250            | 320          | 370             | 400              |
+    | Waist       | 450            | 520          | 560             | 580              |
+    | Hips        | 550            | 600          | 630             | 650              |
+    | Knees       | 750            | 780          | 800             | 820              |
+    | Ankles      | 900            | 920          | 930             | 940              |
+    | Bottom edge | 970            | 970          | 970             | 970              |
+
+    ### Pixel verification examples
+
+    At 1024x1536 (2:3):
+    - Full body ymin=30, ymax=950 → (950-30)/1000 × 1536 = 1413px ✓ sufficient
+    - Wrong: ymin=100, ymax=800 → (800-100)/1000 × 1536 = 1075px ✗ too tight, will crop
+
+    At 2048x3072 (2:3):
+    - Full body ymin=30, ymax=950 → (950-30)/1000 × 3072 = 2826px ✓ sufficient
+
+    At 2048x2048 (1:1):
+    - Full body ymin=30, ymax=970 → (970-30)/1000 × 2048 = 1925px ✓ sufficient
+
+    At 1024x1024 (1:1):
+    - Full body ymin=30, ymax=970 → (970-30)/1000 × 1024 = 962px ✓ sufficient
+
+    At 1680x944 (16:9):
+    - Waist-up ymin=80, ymax=700 → (700-80)/1000 × 944 = 585px ✓ sufficient
+    - Full body is not recommended for 16:9 — vertical space (944px) is too limited for a standing figure
+    - Prefer waist-up, bust-up, or scene/group compositions for 16:9
+
+    Always perform this verification before finalizing bbox values.
+
+    ### Framing rules
+
+    - Full body (head to ankle): ymin ~30, ymax ~950 (portrait only — avoid for 16:9)
+    - Knee-up crop: ymin ~30, ymax ~800
+    - Waist-up crop: ymin ~30, ymax ~600 (portrait) / ymin ~80, ymax ~700 (16:9)
+    - Bust-up crop: ymin ~30, ymax ~450 (portrait) / ymin ~80, ymax ~600 (16:9)
+    - Face close-up: ymin ~30, ymax ~300 (portrait) / ymin ~100, ymax ~700 (16:9)
+    - Scene/cinematic: multiple subjects or environment — distribute horizontally for 16:9
+
+    For portrait 2:3, a subject filling the frame vertically should use:
+      ymin: 20–50, ymax: 930–970
+    Never place a full standing figure with ymin > 100 or ymax < 850 in 2:3 portrait.
+
+    ### Horizontal placement guide
+
+    - Center: xmin ~200, xmax ~800
+    - Slight left offset: xmin ~100, xmax ~650
+    - Slight right offset: xmin ~350, xmax ~900
+    - Full width: xmin ~50, xmax ~950
+    - For 16:9 multi-subject: distribute across xmin ~50–950 with subjects at ~150–400, ~400–650, ~600–900
+
+    ## Framing rules for full-body shots
+
+    When the subject is a standing or full-body figure (portrait orientations only):
+    - Always include in high_level_description: "full body visible from head to feet, no cropping, entire figure within frame"
+    - Always include in the primary subject element desc: "full body visible, head to feet entirely within frame, no cropping at top or bottom"
+    - Set subject bbox with sufficient vertical margin: ymin 20–50, ymax 930–970
+    - Never let the subject bbox touch or exceed the frame edges vertically
+
+    When the user specifies a crop (knee-up, waist-up, bust-up):
+    - Apply the framing guide table above
+    - Do NOT add full-body language to desc
+
+    For 16:9 landscape:
+    - Do NOT attempt full-body standing figure unless explicitly requested
+    - Default to waist-up or scene composition
+    - Distribute elements horizontally to use the wide frame effectively
+
+    ## bbox verification rule
+
+    Before outputting, explicitly calculate:
+    - vertical pixels = (ymax - ymin) / 1000 × height_px
+    - horizontal pixels = (xmax - xmin) / 1000 × width_px
+    - If the user requested full body or knee-up, vertical pixels must be at least:
+      - full body: height_px × 0.85 or more
+      - knee-up: height_px × 0.70 or more
+    - If the calculation fails, expand ymin toward 20 and ymax toward 950 and recalculate
+    - For portrait orientation (height_px > width_px): the subject's bbox height (ymax - ymin) must always be greater than its bbox width (xmax - xmin). Never output a bbox where xmax - xmin > ymax - ymin for a portrait image.
+    - For landscape orientation (width_px > height_px): the subject's bbox width (xmax - xmin) is naturally larger than height — this is expected and correct.
+
+    ## Output format
+
+    {
+      "high_level_description": "...",
+      "style_description": {
+        "aesthetics": "...",
+        "lighting": "...",
+        "photo": "...",
+        "medium": "...",
+        "color_palette": ["#RRGGBB", ...]
+      },
+      "compositional_deconstruction": {
+        "background": "...",
+        "elements": [
+          {
+            "type": "obj",
+            "bbox": [ymin, xmin, ymax, xmax],
+            "desc": "...",
+            "color_palette": ["#RRGGBB", ...]
+          }
+        ]
+      }
+    }
+
+    ## Rules
+
+    - Key order must be exactly as shown above
+    - bbox: [ymin, xmin, ymax, xmax] on 0-1000 scale
+    - color_palette: uppercase #RRGGBB only, max 16 for style_description, max 5 per element
+    - style uses either "photo" key (photographic) or "art_style" key (illustration/painting) — never both
+    - If art_style: key order is aesthetics, lighting, medium, art_style, color_palette
+    - type "text" requires a "text" field inserted between "bbox" and "desc"
+    - elements listed background-to-foreground
+    - The primary subject must always be fully contained within the 0-1000 grid — never let head or feet exceed the frame
+    - Output raw JSON only, nothing else
+
+    ## Input format
+
+    The user will provide:
+    - Aspect ratio and resolution (e.g. "2:3 1024x1536", "2:3 2048x3072", "1:1 1024x1024", "1:1 2048x2048", "16:9 1680x944", "16:9 1920x1080", "9:16 1080x1920")
+    - Image description in natural language
+
+    Use both the aspect ratio AND the pixel dimensions to calculate bbox coordinates.
+    Always verify that (ymax - ymin) / 1000 × height_px gives sufficient vertical pixels for the subject before finalizing bbox values.
+```
+
+> [!NOTE]
+> Main post shows the workflow outputs; the full system prompt was published in the author's own reply and is preserved here as a reusable power-user template for structured Ideogram 4 layout prompting.
 
 ---
 

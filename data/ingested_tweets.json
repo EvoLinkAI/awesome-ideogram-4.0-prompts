@@ -1,0 +1,244 @@
+{
+  "repo": "awesome-ideogram-4.0-prompts",
+  "model": "Ideogram 4.0",
+  "description": "Dedup index of X/Twitter posts already reviewed for this repo. Primary dedup key is tweet_url.",
+  "source_dataset": "ideogram-4.0/ideogram-4.0-repo-showcase-2026-06-04.json",
+  "last_updated": "2026-06-07",
+  "count": 33,
+  "ingested": [
+    {
+      "tweet_url": "https://x.com/ideogram_ai/status/2062202208700313872",
+      "author": "ideogram_ai",
+      "created_at": "Wed Jun 03 15:58:15 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": true
+    },
+    {
+      "tweet_url": "https://x.com/ideogram_ai/status/2062202228770045991",
+      "author": "ideogram_ai",
+      "created_at": "Wed Jun 03 15:58:19 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": true
+    },
+    {
+      "tweet_url": "https://x.com/ideogram_ai/status/2062202397297139809",
+      "author": "ideogram_ai",
+      "created_at": "Wed Jun 03 15:59:00 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": true
+    },
+    {
+      "tweet_url": "https://x.com/ideogram_ai/status/2062202291743297538",
+      "author": "ideogram_ai",
+      "created_at": "Wed Jun 03 15:58:34 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": true
+    },
+    {
+      "tweet_url": "https://x.com/ideogram_ai/status/2062202271367336383",
+      "author": "ideogram_ai",
+      "created_at": "Wed Jun 03 15:58:30 +0000 2026",
+      "ingested_as_case": "poster_case2",
+      "is_official": true
+    },
+    {
+      "tweet_url": "https://x.com/ideogram_ai/status/2062202335250764220",
+      "author": "ideogram_ai",
+      "created_at": "Wed Jun 03 15:58:45 +0000 2026",
+      "ingested_as_case": "poster_case1",
+      "is_official": true
+    },
+    {
+      "tweet_url": "https://x.com/ideogram_ai/status/2062202376833106365",
+      "author": "ideogram_ai",
+      "created_at": "Wed Jun 03 15:58:55 +0000 2026",
+      "ingested_as_case": "portrait_case1",
+      "is_official": true
+    },
+    {
+      "tweet_url": "https://x.com/a16z/status/2062203114472813008",
+      "author": "a16z",
+      "created_at": "Wed Jun 03 16:01:51 +0000 2026",
+      "ingested_as_case": "comparison_case4",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/GenIArt_Fr/status/2062110258491691240",
+      "author": "GenIArt_Fr",
+      "created_at": "Wed Jun 03 09:52:52 +0000 2026",
+      "ingested_as_case": "comparison_case1",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/venturetwins/status/2062207215961014735",
+      "author": "venturetwins",
+      "created_at": "Wed Jun 03 16:18:08 +0000 2026",
+      "ingested_as_case": "comparison_case3",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/richardzphotoz/status/2062204196418355431",
+      "author": "richardzphotoz",
+      "created_at": "Wed Jun 03 16:06:08 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/altryne/status/2062205967283200099",
+      "author": "altryne",
+      "created_at": "Wed Jun 03 16:13:11 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/lukasersil/status/2062203909465129310",
+      "author": "lukasersil",
+      "created_at": "Wed Jun 03 16:05:00 +0000 2026",
+      "ingested_as_case": "comparison_case2",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/LudovicCreator/status/2062207302690832683",
+      "author": "LudovicCreator",
+      "created_at": "Wed Jun 03 16:18:29 +0000 2026",
+      "ingested_as_case": "comparison_case5",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/nadzi_mouad/status/2062202989058678837",
+      "author": "nadzi_mouad",
+      "created_at": "Wed Jun 03 16:01:21 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/jerrod_lew/status/2062202729074962468",
+      "author": "jerrod_lew",
+      "created_at": "Wed Jun 03 16:00:19 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/jerrod_lew/status/2062202808951283998",
+      "author": "jerrod_lew",
+      "created_at": "Wed Jun 03 16:00:38 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/jerrod_lew/status/2062202782590095619",
+      "author": "jerrod_lew",
+      "created_at": "Wed Jun 03 16:00:31 +0000 2026",
+      "ingested_as_case": "portrait_case2",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/jerrod_lew/status/2062202855499739471",
+      "author": "jerrod_lew",
+      "created_at": "Wed Jun 03 16:00:49 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/jerrod_lew/status/2062202754689552763",
+      "author": "jerrod_lew",
+      "created_at": "Wed Jun 03 16:00:25 +0000 2026",
+      "ingested_as_case": "poster_case5",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/jerrod_lew/status/2062202833219568018",
+      "author": "jerrod_lew",
+      "created_at": "Wed Jun 03 16:00:43 +0000 2026",
+      "ingested_as_case": "poster_case7",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/GenIArt_Fr/status/2062110270793580546",
+      "author": "GenIArt_Fr",
+      "created_at": "Wed Jun 03 09:52:55 +0000 2026",
+      "ingested_as_case": null,
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/umesh_ai/status/2062257828249915733",
+      "author": "umesh_ai",
+      "created_at": "Wed Jun 03 19:39:15 +0000 2026",
+      "ingested_as_case": "poster_case3",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/SqueakAlGaib/status/2062371783400202255",
+      "author": "SqueakAlGaib",
+      "created_at": "Thu Jun 04 03:12:04 +0000 2026",
+      "ingested_as_case": "poster_case4",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/fofrAI/status/2062264139574067612",
+      "author": "fofrAI",
+      "created_at": "Wed Jun 03 20:04:20 +0000 2026",
+      "ingested_as_case": "poster_case6",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/jasperdevs/status/2062232495517552716",
+      "author": "jasperdevs",
+      "created_at": "Wed Jun 03 17:58:36 +0000 2026",
+      "ingested_as_case": "comparison_case10",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/VORTEX_Promos/status/2062276884738490397",
+      "author": "VORTEX_Promos",
+      "created_at": "Wed Jun 03 20:54:59 +0000 2026",
+      "ingested_as_case": "comparison_case11",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/fofrAI/status/2062251438990930323",
+      "author": "fofrAI",
+      "created_at": "Wed Jun 03 19:13:52 +0000 2026",
+      "ingested_as_case": "comparison_case12",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/azed_ai/status/2062225166567149776",
+      "author": "azed_ai",
+      "created_at": "Wed Jun 03 17:29:28 +0000 2026",
+      "ingested_as_case": "comparison_case13",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/ozansihay/status/2062305930994192638",
+      "author": "ozansihay",
+      "created_at": "Wed Jun 03 22:50:24 +0000 2026",
+      "ingested_as_case": "comparison_case14",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://runtimewire.com/article/we-put-ideogram-4-head-to-head-against-openai-google-and-microsoft-in-four-image",
+      "author": "runtimewire",
+      "created_at": null,
+      "ingested_as_case": "comparison_case6,comparison_case7,comparison_case8,comparison_case9",
+      "is_official": false,
+      "source_type": "article",
+      "note": "Non-X source (RuntimeWire article); covers 4 published comparison cases."
+    },
+    {
+      "tweet_url": "https://x.com/FET_SHIZAIBU/status/2063462042221310257",
+      "author": "FET_SHIZAIBU",
+      "created_at": "Sun Jun 07 03:24:22 +0000 2026",
+      "ingested_as_case": "poster_case8",
+      "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/PhotogenicWeekE/status/2063453896337715389",
+      "author": "PhotogenicWeekE",
+      "created_at": "Sun Jun 07 02:52:00 +0000 2026",
+      "ingested_as_case": "comparison_case15",
+      "is_official": false
+    }
+  ],
+  "cases_published": 23
+}
