@@ -6,7 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Weights](https://img.shields.io/badge/Open_Weights-GitHub-blue)](https://github.com/ideogram-oss/ideogram4)
-[![Cases](https://img.shields.io/badge/Cases-25-orange)](#-목차)
+[![Cases](https://img.shields.io/badge/Cases-26-orange)](#-목차)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -70,6 +70,7 @@ Evolink에서 사용해 보기: [Ideogram 4.0](https://evolink.ai/models?utm_sou
   - [Case 6: 추상적 연필 단면 인물화](#case-6-추상적-연필-단면-인물화-by-fofrai)
   - [Case 7: 영양 성분표가 있는 제품 패키지](#case-7-영양-성분표가-있는-제품-패키지-by-jerrod_lew)
   - [Case 8: 이세계 여고생 전사](#case-8--by-fet_shizaibu)
+  - [Case 9: 커피숍 레이아웃 프롬프트](#case-9-커피숍-레이아웃-프롬프트-by-froggyaislop)
 - [🧪 비교 및 커뮤니티 예시](#-비교-및-커뮤니티-예시)
   - [Case 1: 10개 모델 그래피티 비교](#case-1-10개-모델-그래피티-비교-by-geniart_fr)
   - [Case 2: 다국어 텍스트 렌더링 (체코어)](#case-2-다국어-텍스트-렌더링-체코어-by-lukasersil)
@@ -313,6 +314,24 @@ a scan of a page from my high school A3 art pad, highly original niche pencil pi
 
 > [!NOTE]
 > 교복과 경장갑, 검과 방패 자세를 결합한 일본어 판타지 액션 프롬프트로, 깔끔한 전신 액션 샷 구성이 핵심입니다.
+
+---
+
+### Case 9: [커피숍 레이아웃 프롬프트](https://x.com/froggyaislop/status/2063615207797043293) (by [@froggyaislop](https://x.com/froggyaislop))
+
+<img src="images/poster_case9/output.jpg" width="500">
+
+**Prompt:**
+
+```
+#subject: minimal coffee shop poster
+#layout: headline top third, product centered, hours + #address in a bottom strip
+#text: headline reads "OPEN 7AM" — exact, no typos
+#style: warm film photo, lots of negative space
+```
+
+> [!NOTE]
+> 명확한 위계, 정확한 헤드라인 문구, 중앙 제품 배치, 충분한 여백을 갖춘 짧은 레이아웃 중심 포스터 프롬프트다. Ideogram 4.0의 레이아웃 제어를 실용적으로 보여준다.
 
 ---
 

@@ -6,7 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Weights](https://img.shields.io/badge/Open_Weights-GitHub-blue)](https://github.com/ideogram-oss/ideogram4)
-[![Cases](https://img.shields.io/badge/Cases-25-orange)](#-índice)
+[![Cases](https://img.shields.io/badge/Cases-26-orange)](#-índice)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -46,6 +46,7 @@ Se achar útil, considere dar uma estrela. ⭐
 
 ## 📰 Novidades
 
+- **8 de junho de 2026:** Adicionado 1 caso comunitário curado de pôster — Prompt de Layout para Cafeteria — da mais recente curadoria de 24h.
 - **June 3, 2026:** Ideogram 4.0 lançado — o modelo de texto para imagem de peso aberto nº 1 em arenas de terceiros, com 2K nativo, fundos transparentes e pesos abertos baixáveis.
 - **June 3, 2026:** Disponível em plataformas parceiras de lançamento, incluindo Hugging Face, ComfyUI, fal, Runware, Magnific, Krea, Leonardo, Picsart, Cloudflare, Replicate, Gamma, Flora e Kittl.
 - **June 4, 2026:** Primeira atualização do repositório — 11 casos de exemplo do dia do lançamento (galerias de várias imagens) nas seções de categorias.
@@ -314,6 +315,24 @@ a scan of a page from my high school A3 art pad, highly original niche pencil pi
 
 > [!NOTE]
 > Um prompt japonês de ação e fantasia, compacto e reutilizável: uniforme escolar com armadura leve e pose de espada e escudo em um enquadramento de corpo inteiro.
+
+---
+
+### Case 9: [Prompt de Layout para Cafeteria](https://x.com/froggyaislop/status/2063615207797043293) (by [@froggyaislop](https://x.com/froggyaislop))
+
+<img src="images/poster_case9/output.jpg" width="500">
+
+**Prompt:**
+
+```
+#subject: minimal coffee shop poster
+#layout: headline top third, product centered, hours + #address in a bottom strip
+#text: headline reads "OPEN 7AM" — exact, no typos
+#style: warm film photo, lots of negative space
+```
+
+> [!NOTE]
+> Um prompt curto de pôster focado em layout: hierarquia clara, texto do título exato, produto centralizado e espaço negativo suficiente para tornar útil o controle de layout do Ideogram 4.0.
 
 ---
 

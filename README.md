@@ -6,7 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Weights](https://img.shields.io/badge/Open_Weights-GitHub-blue)](https://github.com/ideogram-oss/ideogram4)
-[![Cases](https://img.shields.io/badge/Cases-25-orange)](#-menu)
+[![Cases](https://img.shields.io/badge/Cases-26-orange)](#-menu)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -46,6 +46,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## 📰 News
 
+- **June 8, 2026:** Added 1 curated community poster case — Coffee Shop Layout Prompt — from the latest 24h curation batch.
 - **June 3, 2026:** Ideogram 4.0 released — the #1 open-weight text-to-image model on third-party arenas, with native 2K, transparent backgrounds, and downloadable open weights.
 - **June 3, 2026:** Available on launch partners including Hugging Face, ComfyUI, fal, Runware, Magnific, Krea, Leonardo, Picsart, Cloudflare, Replicate, Gamma, Flora, and Kittl.
 - **June 4, 2026:** First repository update — 11 launch-day example cases (multi-image galleries) across the category sections.
@@ -314,6 +315,24 @@ a scan of a page from my high school A3 art pad, highly original niche pencil pi
 
 > [!NOTE]
 > A concise Japanese fantasy action prompt: school uniform + light armor + sword-and-shield stance, composed as a clean full-body action shot.
+
+---
+
+### Case 9: [Coffee Shop Layout Prompt](https://x.com/froggyaislop/status/2063615207797043293) (by [@froggyaislop](https://x.com/froggyaislop))
+
+<img src="images/poster_case9/output.jpg" width="500">
+
+**Prompt:**
+
+```
+#subject: minimal coffee shop poster
+#layout: headline top third, product centered, hours + #address in a bottom strip
+#text: headline reads "OPEN 7AM" — exact, no typos
+#style: warm film photo, lots of negative space
+```
+
+> [!NOTE]
+> A compact layout-first poster prompt: clear hierarchy, exact headline text, centered product framing, and enough negative space to make Ideogram 4.0's layout control do useful work.
 
 ---
 

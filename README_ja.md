@@ -6,7 +6,7 @@
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Model](https://img.shields.io/badge/Model-Ideogram_4.0-purple)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-ideogram-4.0-prompts)
 [![Weights](https://img.shields.io/badge/Open_Weights-GitHub-blue)](https://github.com/ideogram-oss/ideogram4)
-[![Cases](https://img.shields.io/badge/Cases-25-orange)](#-目次)
+[![Cases](https://img.shields.io/badge/Cases-26-orange)](#-目次)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -46,6 +46,7 @@ Evolink で試す：[Ideogram 4.0](https://evolink.ai/models?utm_source=github&u
 
 ## 📰 ニュース
 
+- **2026年6月8日:** 最新の24時間キュレーションから、コミュニティ由来のポスター事例を1件追加 — コーヒーショップのレイアウトプロンプト。
 - **June 3, 2026:** Ideogram 4.0 リリース——サードパーティのアリーナで第1位のオープンウェイト型テキスト画像モデル。ネイティブ2K、透過背景、ダウンロード可能なオープンウェイトを備える。
 - **June 3, 2026:** Hugging Face、ComfyUI、fal、Runware、Magnific、Krea、Leonardo、Picsart、Cloudflare、Replicate、Gamma、Flora、Kittl などのローンチパートナーで利用可能。
 - **June 4, 2026:** リポジトリの初回更新——カテゴリ各セクションにローンチ当日の11事例（複数画像ギャラリー）。
@@ -314,6 +315,24 @@ a scan of a page from my high school A3 art pad, highly original niche pencil pi
 
 > [!NOTE]
 > 学生服と軽装甲、ショートソードとラウンドシールドを組み合わせた、全身アクション構図の日本語ファンタジープロンプト。
+
+---
+
+### Case 9: [コーヒーショップのレイアウトプロンプト](https://x.com/froggyaislop/status/2063615207797043293) (by [@froggyaislop](https://x.com/froggyaislop))
+
+<img src="images/poster_case9/output.jpg" width="500">
+
+**Prompt:**
+
+```
+#subject: minimal coffee shop poster
+#layout: headline top third, product centered, hours + #address in a bottom strip
+#text: headline reads "OPEN 7AM" — exact, no typos
+#style: warm film photo, lots of negative space
+```
+
+> [!NOTE]
+> 階層の明確さ、見出し文言の正確さ、中央配置の商品、十分な余白を押さえた、レイアウト重視のコンパクトなポスタープロンプト。Ideogram 4.0 の構図制御がきちんと効く。
 
 ---
 

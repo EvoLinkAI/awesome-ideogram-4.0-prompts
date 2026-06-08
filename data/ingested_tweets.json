@@ -3,8 +3,8 @@
   "model": "Ideogram 4.0",
   "description": "Dedup index of X/Twitter posts already reviewed for this repo. Primary dedup key is tweet_url.",
   "source_dataset": "ideogram-4.0/ideogram-4.0-repo-showcase-2026-06-04.json",
-  "last_updated": "2026-06-07",
-  "count": 33,
+  "last_updated": "2026-06-08",
+  "count": 34,
   "ingested": [
     {
       "tweet_url": "https://x.com/ideogram_ai/status/2062202208700313872",
@@ -238,7 +238,14 @@
       "created_at": "Sun Jun 07 02:52:00 +0000 2026",
       "ingested_as_case": "comparison_case15",
       "is_official": false
+    },
+    {
+      "tweet_url": "https://x.com/froggyaislop/status/2063615207797043293",
+      "author": "froggyaislop",
+      "created_at": "Sun Jun 07 13:33:00 +0000 2026",
+      "ingested_as_case": "poster_case9",
+      "is_official": false
     }
   ],
-  "cases_published": 23
+  "cases_published": 26
 }
